@@ -1,0 +1,58 @@
+.header-bg{
+    background-color: #FFFBF0;
+}
+.bg-jacket{
+    background-color: #f1f1f1;
+}
+.yellow-color{
+    color: #FABE4C;
+}
+.font-header1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    font-weight: 700;
+}
+.font-header2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    font-weight: 700;
+}
+.font-2{
+    font-family: 'Roboto', sans-serif;
+}
+.font-3{
+    font-family: 'roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+}
+.font-4{
+    font-family: 'roboto', sans-serif;
+    font-size: 36px;
+    font-weight: 900;
+    color: #FABE4C;
+}
+.buy-now-button-color{
+    background-image: linear-gradient(60deg, #A5C138, #85A019
+    );
+
+}
+.image-resize1{
+    width: 75%;
+}
+.image-resize2{
+    width: 82%;
+}
+.image-resize3{
+    width: 79%;
+}
+.image-resize4{
+    width: 72%;
+}
+.image-resize5{
+    width: 82px;
+    height: 78px;
+}
+
+.image-border{
+    border: 0px;
+}
