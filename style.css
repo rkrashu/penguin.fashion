@@ -49,8 +49,11 @@
     width: 72%;
 }
 .image-resize5{
-    width: 82px;
-    height: 78px;
+width: 100%;
+}
+.image-resize6{
+    height: 68px;
+    width: 80px;
 }
 
 .image-border{
